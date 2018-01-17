@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on My New Hugo Site</title>
+    <link>http://example.org/tags/tag2/</link>
+    <description>Recent content in Tag2 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jan 2018 15:00:18 +0530</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>B</title>
+      <link>http://example.org/b/</link>
+      <pubDate>Tue, 16 Jan 2018 15:00:18 +0530</pubDate>
+      
+      <guid>http://example.org/b/</guid>
+      <description>This is B mockdown.</description>
+    </item>
+    
+    <item>
+      <title>A</title>
+      <link>http://example.org/a/</link>
+      <pubDate>Tue, 16 Jan 2018 14:21:30 +0530</pubDate>
+      
+      <guid>http://example.org/a/</guid>
+      <description>Shortcodes | Hugo - Static Site Generator | Tutorial 9
+  </description>
+    </item>
+    
+  </channel>
+</rss>

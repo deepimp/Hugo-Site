@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Deep Govani"
+theme = "dream"
+defaultContentLanguage = "en"
+
+copyright = "Copyright (c) 2018, Deep Govani all rights reserved."
+
+# enableRobotsTXT = true
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+[params]
+  author = "Deep Govani"
+  motto = "We do what we learn."
+  # description = ""
+  #avatar = ""
+  
+   email = "deepgovan9@gmail.com"
+   github = "deepimp"
+   linkedin = "djgovani"
+  # codepen = ""
+  # stackoverflow = ""
